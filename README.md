@@ -3,7 +3,7 @@
  "age":24,
  "height":175,
  "jiankan":1,
- "state":"sds", 
+ "state":"CN", 
  "ceshilai":"ceshilaiceshilai",
  "operation":"https://www.baidu.com/",
  "wiki":"構成",

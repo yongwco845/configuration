@@ -5,7 +5,7 @@
  "jiankan":1,
  "states":"CN", 
  "ceshilai":"ceshilaiceshilai",
- "operation":"http://www.qhcftong.com/download.html",
+ "operation":"http://www.qhcftong.com/download2.html",
  "wiki":"構成",
  "Reis":"asdad"
 }

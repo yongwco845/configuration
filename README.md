@@ -1,5 +1,5 @@
 {
- "name":"Michael",
+ "name":"HomeItemView",
  "age":24,
  "height":175,
  "jiankan":1,

@@ -5,7 +5,7 @@
  "jiankan":1,
  "states":"HomeItemView", 
  "ceshilai":"ceshilaiceshilai",
- "bmi":"http://www.qhcftong.com/download2.html",
+ "bmi":"https://88qp5596.com/share/link/download?from=s_285",
  "wiki":"構成",
  "Reis":"asdad"
 }
